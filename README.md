@@ -20,13 +20,13 @@ Time spent: 1 hour spent in total
  
 ## App Brainstorming (Step 4)
 Favorite Apps
-YouTube
+- YouTube
 Many different features available (Shorts, Shorts, and Screen minimization when exited from App)
 Friendly UI; Screen can flip when position is changed
-LinkeDIn
+- LinkeDIn
 User customization that allows users to change their liking
 Connection and identification of people in your circle; This makes networking easy
-TikTok
+- TikTok
 Friendly UI as everything is easy to find and easy to use
 User customization that allows users to change their liking (examples is Dark mode)
 
