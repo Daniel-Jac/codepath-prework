@@ -38,8 +38,8 @@ PokéVest would be a comprehensive app designed for Pokémon collectors and inve
 
 
 Describe any challenges encountered while building the app.
-Understanding and working around XCode
-Understanding Swift
+- Understanding and working around XCode
+- Understanding Swift
 
     Copyright 2025 Daniel Jachero
 
