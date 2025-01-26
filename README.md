@@ -20,18 +20,18 @@ Time spent: 1 hour spent in total
  
 ## App Brainstorming (Step 4)
 Favorite Apps
-- YouTube
+- YouTube:
 Many different features available (Shorts, Shorts, and Screen minimization when exited from App)
 Friendly UI; Screen can flip when position is changed
-- LinkeDIn
+- LinkeDIn:
 User customization that allows users to change their liking
 Connection and identification of people in your circle; This makes networking easy
-- TikTok
+- TikTok:
 Friendly UI as everything is easy to find and easy to use
 User customization that allows users to change their liking (examples is Dark mode)
 
 
-PokéVest
+- PokéVest:
 PokéVest would be a comprehensive app designed for Pokémon collectors and investors, allowing users to track the performance of their Pokémon card and sealed product portfolios. The app would feature tools to input and monitor collection value over time, providing insights like percentage growth, recent sales data, and market trends. It would also include a "Trending Cards" section that showcases hot cards in the market, highlighting price changes and demand indicators, similar to CNBC’s stock ticker but tailored to Pokémon collectibles. Additional features could include news on upcoming product releases, a marketplace for buying and selling, and educational content on investing in Pokémon products. This app would bridge the gap between casual collectors and serious investors, offering a fun yet professional platform for the Pokémon investment community.
 
 
